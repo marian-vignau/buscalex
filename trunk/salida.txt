@@ -1,0 +1,291 @@
+running py2exe
+*** searching for required modules ***
+*** parsing results ***
+creating python loader for extension 'wx._misc_' (C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\_misc_.pyd -> wx._misc_.pyd)
+creating python loader for extension 'wx._html' (C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\_html.pyd -> wx._html.pyd)
+creating python loader for extension 'win32api' (C:\PYTHON25\lib\site-packages\win32\win32api.pyd -> win32api.pyd)
+creating python loader for extension 'select' (C:\PYTHON25\DLLs\select.pyd -> select.pyd)
+creating python loader for extension 'win32ui' (C:\PYTHON25\lib\site-packages\Pythonwin\win32ui.pyd -> win32ui.pyd)
+creating python loader for extension '_win32sysloader' (C:\PYTHON25\lib\site-packages\win32\_win32sysloader.pyd -> _win32sysloader.pyd)
+creating python loader for extension 'unicodedata' (C:\PYTHON25\DLLs\unicodedata.pyd -> unicodedata.pyd)
+creating python loader for extension 'wx._windows_' (C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\_windows_.pyd -> wx._windows_.pyd)
+creating python loader for extension 'wx._gdi_' (C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\_gdi_.pyd -> wx._gdi_.pyd)
+creating python loader for extension 'wx._controls_' (C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\_controls_.pyd -> wx._controls_.pyd)
+creating python loader for extension '_sqlite3' (C:\PYTHON25\DLLs\_sqlite3.pyd -> _sqlite3.pyd)
+creating python loader for extension 'bz2' (C:\PYTHON25\DLLs\bz2.pyd -> bz2.pyd)
+creating python loader for extension 'wx._core_' (C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\_core_.pyd -> wx._core_.pyd)
+*** finding dlls needed ***
+*** create binaries ***
+*** byte compile python files ***
+skipping byte-compilation of C:\Mis documentos\MisProyectos\BusSujetos\BusqGUI.py to BusqGUI.pyc
+skipping byte-compilation of C:\Mis documentos\MisProyectos\BusSujetos\BusqNombres.py to BusqNombres.pyc
+skipping byte-compilation of C:\Mis documentos\MisProyectos\BusSujetos\Indizar.py to Indizar.pyc
+byte-compiling C:\Mis documentos\MisProyectos\BusSujetos\build\bdist.win32\winexe\temp\_sqlite3.py to _sqlite3.pyc
+byte-compiling C:\Mis documentos\MisProyectos\BusSujetos\build\bdist.win32\winexe\temp\_win32sysloader.py to _win32sysloader.pyc
+byte-compiling C:\Mis documentos\MisProyectos\BusSujetos\build\bdist.win32\winexe\temp\bz2.py to bz2.pyc
+byte-compiling C:\Mis documentos\MisProyectos\BusSujetos\build\bdist.win32\winexe\temp\select.py to select.pyc
+byte-compiling C:\Mis documentos\MisProyectos\BusSujetos\build\bdist.win32\winexe\temp\unicodedata.py to unicodedata.pyc
+byte-compiling C:\Mis documentos\MisProyectos\BusSujetos\build\bdist.win32\winexe\temp\win32api.py to win32api.pyc
+byte-compiling C:\Mis documentos\MisProyectos\BusSujetos\build\bdist.win32\winexe\temp\win32ui.py to win32ui.pyc
+byte-compiling C:\Mis documentos\MisProyectos\BusSujetos\build\bdist.win32\winexe\temp\wx._controls_.py to wx\_controls_.pyc
+byte-compiling C:\Mis documentos\MisProyectos\BusSujetos\build\bdist.win32\winexe\temp\wx._core_.py to wx\_core_.pyc
+byte-compiling C:\Mis documentos\MisProyectos\BusSujetos\build\bdist.win32\winexe\temp\wx._gdi_.py to wx\_gdi_.pyc
+byte-compiling C:\Mis documentos\MisProyectos\BusSujetos\build\bdist.win32\winexe\temp\wx._html.py to wx\_html.pyc
+byte-compiling C:\Mis documentos\MisProyectos\BusSujetos\build\bdist.win32\winexe\temp\wx._misc_.py to wx\_misc_.pyc
+byte-compiling C:\Mis documentos\MisProyectos\BusSujetos\build\bdist.win32\winexe\temp\wx._windows_.py to wx\_windows_.pyc
+skipping byte-compilation of C:\Mis documentos\MisProyectos\BusSujetos\config.py to config.pyc
+skipping byte-compilation of C:\PYTHON25\lib\StringIO.py to StringIO.pyc
+skipping byte-compilation of C:\PYTHON25\lib\UserDict.py to UserDict.pyc
+skipping byte-compilation of C:\PYTHON25\lib\__future__.py to __future__.pyc
+skipping byte-compilation of C:\PYTHON25\lib\_strptime.py to _strptime.pyc
+skipping byte-compilation of C:\PYTHON25\lib\_threading_local.py to _threading_local.pyc
+skipping byte-compilation of C:\PYTHON25\lib\atexit.py to atexit.pyc
+skipping byte-compilation of C:\PYTHON25\lib\base64.py to base64.pyc
+skipping byte-compilation of C:\PYTHON25\lib\bdb.py to bdb.pyc
+skipping byte-compilation of C:\PYTHON25\lib\bisect.py to bisect.pyc
+skipping byte-compilation of C:\PYTHON25\lib\calendar.py to calendar.pyc
+skipping byte-compilation of C:\PYTHON25\lib\cmd.py to cmd.pyc
+skipping byte-compilation of C:\PYTHON25\lib\codecs.py to codecs.pyc
+skipping byte-compilation of C:\PYTHON25\lib\copy.py to copy.pyc
+skipping byte-compilation of C:\PYTHON25\lib\copy_reg.py to copy_reg.pyc
+skipping byte-compilation of C:\PYTHON25\lib\difflib.py to difflib.pyc
+skipping byte-compilation of C:\PYTHON25\lib\dis.py to dis.pyc
+skipping byte-compilation of C:\PYTHON25\lib\doctest.py to doctest.pyc
+skipping byte-compilation of C:\PYTHON25\lib\dummy_thread.py to dummy_thread.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\__init__.py to encodings\__init__.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\aliases.py to encodings\aliases.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\ascii.py to encodings\ascii.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\base64_codec.py to encodings\base64_codec.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\big5.py to encodings\big5.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\big5hkscs.py to encodings\big5hkscs.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\bz2_codec.py to encodings\bz2_codec.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\charmap.py to encodings\charmap.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp037.py to encodings\cp037.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp1006.py to encodings\cp1006.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp1026.py to encodings\cp1026.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp1140.py to encodings\cp1140.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp1250.py to encodings\cp1250.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp1251.py to encodings\cp1251.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp1252.py to encodings\cp1252.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp1253.py to encodings\cp1253.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp1254.py to encodings\cp1254.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp1255.py to encodings\cp1255.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp1256.py to encodings\cp1256.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp1257.py to encodings\cp1257.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp1258.py to encodings\cp1258.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp424.py to encodings\cp424.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp437.py to encodings\cp437.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp500.py to encodings\cp500.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp737.py to encodings\cp737.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp775.py to encodings\cp775.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp850.py to encodings\cp850.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp852.py to encodings\cp852.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp855.py to encodings\cp855.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp856.py to encodings\cp856.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp857.py to encodings\cp857.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp860.py to encodings\cp860.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp861.py to encodings\cp861.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp862.py to encodings\cp862.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp863.py to encodings\cp863.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp864.py to encodings\cp864.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp865.py to encodings\cp865.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp866.py to encodings\cp866.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp869.py to encodings\cp869.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp874.py to encodings\cp874.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp875.py to encodings\cp875.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp932.py to encodings\cp932.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp949.py to encodings\cp949.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\cp950.py to encodings\cp950.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\euc_jis_2004.py to encodings\euc_jis_2004.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\euc_jisx0213.py to encodings\euc_jisx0213.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\euc_jp.py to encodings\euc_jp.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\euc_kr.py to encodings\euc_kr.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\gb18030.py to encodings\gb18030.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\gb2312.py to encodings\gb2312.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\gbk.py to encodings\gbk.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\hex_codec.py to encodings\hex_codec.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\hp_roman8.py to encodings\hp_roman8.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\hz.py to encodings\hz.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\idna.py to encodings\idna.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso2022_jp.py to encodings\iso2022_jp.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso2022_jp_1.py to encodings\iso2022_jp_1.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso2022_jp_2.py to encodings\iso2022_jp_2.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso2022_jp_2004.py to encodings\iso2022_jp_2004.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso2022_jp_3.py to encodings\iso2022_jp_3.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso2022_jp_ext.py to encodings\iso2022_jp_ext.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso2022_kr.py to encodings\iso2022_kr.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_1.py to encodings\iso8859_1.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_10.py to encodings\iso8859_10.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_11.py to encodings\iso8859_11.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_13.py to encodings\iso8859_13.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_14.py to encodings\iso8859_14.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_15.py to encodings\iso8859_15.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_16.py to encodings\iso8859_16.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_2.py to encodings\iso8859_2.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_3.py to encodings\iso8859_3.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_4.py to encodings\iso8859_4.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_5.py to encodings\iso8859_5.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_6.py to encodings\iso8859_6.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_7.py to encodings\iso8859_7.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_8.py to encodings\iso8859_8.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\iso8859_9.py to encodings\iso8859_9.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\johab.py to encodings\johab.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\koi8_r.py to encodings\koi8_r.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\koi8_u.py to encodings\koi8_u.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\latin_1.py to encodings\latin_1.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\mac_arabic.py to encodings\mac_arabic.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\mac_centeuro.py to encodings\mac_centeuro.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\mac_croatian.py to encodings\mac_croatian.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\mac_cyrillic.py to encodings\mac_cyrillic.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\mac_farsi.py to encodings\mac_farsi.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\mac_greek.py to encodings\mac_greek.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\mac_iceland.py to encodings\mac_iceland.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\mac_latin2.py to encodings\mac_latin2.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\mac_roman.py to encodings\mac_roman.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\mac_romanian.py to encodings\mac_romanian.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\mac_turkish.py to encodings\mac_turkish.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\mbcs.py to encodings\mbcs.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\palmos.py to encodings\palmos.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\ptcp154.py to encodings\ptcp154.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\punycode.py to encodings\punycode.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\quopri_codec.py to encodings\quopri_codec.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\raw_unicode_escape.py to encodings\raw_unicode_escape.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\rot_13.py to encodings\rot_13.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\shift_jis.py to encodings\shift_jis.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\shift_jis_2004.py to encodings\shift_jis_2004.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\shift_jisx0213.py to encodings\shift_jisx0213.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\string_escape.py to encodings\string_escape.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\tis_620.py to encodings\tis_620.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\undefined.py to encodings\undefined.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\unicode_escape.py to encodings\unicode_escape.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\unicode_internal.py to encodings\unicode_internal.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\utf_16.py to encodings\utf_16.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\utf_16_be.py to encodings\utf_16_be.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\utf_16_le.py to encodings\utf_16_le.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\utf_7.py to encodings\utf_7.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\utf_8.py to encodings\utf_8.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\utf_8_sig.py to encodings\utf_8_sig.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\uu_codec.py to encodings\uu_codec.pyc
+skipping byte-compilation of C:\PYTHON25\lib\encodings\zlib_codec.py to encodings\zlib_codec.pyc
+skipping byte-compilation of C:\PYTHON25\lib\fnmatch.py to fnmatch.pyc
+skipping byte-compilation of C:\PYTHON25\lib\getopt.py to getopt.pyc
+skipping byte-compilation of C:\PYTHON25\lib\gettext.py to gettext.pyc
+skipping byte-compilation of C:\PYTHON25\lib\glob.py to glob.pyc
+skipping byte-compilation of C:\PYTHON25\lib\heapq.py to heapq.pyc
+skipping byte-compilation of C:\PYTHON25\lib\inspect.py to inspect.pyc
+skipping byte-compilation of C:\PYTHON25\lib\keyword.py to keyword.pyc
+skipping byte-compilation of C:\PYTHON25\lib\linecache.py to linecache.pyc
+skipping byte-compilation of C:\PYTHON25\lib\locale.py to locale.pyc
+skipping byte-compilation of C:\PYTHON25\lib\macpath.py to macpath.pyc
+skipping byte-compilation of C:\PYTHON25\lib\new.py to new.pyc
+skipping byte-compilation of C:\PYTHON25\lib\ntpath.py to ntpath.pyc
+skipping byte-compilation of C:\PYTHON25\lib\opcode.py to opcode.pyc
+skipping byte-compilation of C:\PYTHON25\lib\optparse.py to optparse.pyc
+skipping byte-compilation of C:\PYTHON25\lib\os.py to os.pyc
+skipping byte-compilation of C:\PYTHON25\lib\os2emxpath.py to os2emxpath.pyc
+skipping byte-compilation of C:\PYTHON25\lib\pdb.py to pdb.pyc
+skipping byte-compilation of C:\PYTHON25\lib\pickle.py to pickle.pyc
+skipping byte-compilation of C:\PYTHON25\lib\popen2.py to popen2.pyc
+skipping byte-compilation of C:\PYTHON25\lib\posixpath.py to posixpath.pyc
+skipping byte-compilation of C:\PYTHON25\lib\pprint.py to pprint.pyc
+skipping byte-compilation of C:\PYTHON25\lib\py_compile.py to py_compile.pyc
+skipping byte-compilation of C:\PYTHON25\lib\quopri.py to quopri.pyc
+skipping byte-compilation of C:\PYTHON25\lib\random.py to random.pyc
+skipping byte-compilation of C:\PYTHON25\lib\re.py to re.pyc
+skipping byte-compilation of C:\PYTHON25\lib\repr.py to repr.pyc
+skipping byte-compilation of C:\PYTHON25\lib\shutil.py to shutil.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\LexCom\Casos.py to LexCom\Casos.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\LexCom\Depen.py to LexCom\Depen.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\LexCom\Nomen.py to LexCom\Nomen.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\LexCom\Partes.py to LexCom\Partes.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\LexCom\Tabla.py to LexCom\Tabla.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\LexCom\__init__.py to LexCom\__init__.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\LexCom\utiles.py to LexCom\utiles.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\Pythonwin\pywin\__init__.py to pywin\__init__.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\Pythonwin\pywin\dialogs\__init__.py to pywin\dialogs\__init__.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\Pythonwin\pywin\dialogs\list.py to pywin\dialogs\list.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\Pythonwin\pywin\dialogs\status.py to pywin\dialogs\status.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\Pythonwin\pywin\mfc\__init__.py to pywin\mfc\__init__.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\Pythonwin\pywin\mfc\dialog.py to pywin\mfc\dialog.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\Pythonwin\pywin\mfc\object.py to pywin\mfc\object.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\Pythonwin\pywin\mfc\thread.py to pywin\mfc\thread.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\Pythonwin\pywin\mfc\window.py to pywin\mfc\window.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\dbfpy\__init__.py to dbfpy\__init__.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\dbfpy\binnum.py to dbfpy\binnum.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\dbfpy\dbf.py to dbfpy\dbf.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\dbfpy\strutil.py to dbfpy\strutil.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\pythoncom.py to pythoncom.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\win32\lib\commctrl.py to commctrl.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\win32\lib\pywintypes.py to pywintypes.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\win32\lib\win32con.py to win32con.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\win32\lib\winerror.py to winerror.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\win32com\__init__.py to win32com\__init__.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\win32com\client\CLSIDToClass.py to win32com\client\CLSIDToClass.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\win32com\client\__init__.py to win32com\client\__init__.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\win32com\client\build.py to win32com\client\build.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\win32com\client\dynamic.py to win32com\client\dynamic.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\win32com\client\gencache.py to win32com\client\gencache.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\win32com\client\genpy.py to win32com\client\genpy.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\win32com\client\makepy.py to win32com\client\makepy.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\win32com\client\selecttlb.py to win32com\client\selecttlb.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\win32com\client\util.py to win32com\client\util.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\__init__.py to wx\__init__.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\__version__.py to wx\__version__.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\_controls.py to wx\_controls.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\_core.py to wx\_core.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\_gdi.py to wx\_gdi.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\_misc.py to wx\_misc.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\_windows.py to wx\_windows.pyc
+skipping byte-compilation of C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\html.py to wx\html.pyc
+skipping byte-compilation of C:\PYTHON25\lib\sqlite3\__init__.py to sqlite3\__init__.pyc
+skipping byte-compilation of C:\PYTHON25\lib\sqlite3\dbapi2.py to sqlite3\dbapi2.pyc
+skipping byte-compilation of C:\PYTHON25\lib\sre.py to sre.pyc
+skipping byte-compilation of C:\PYTHON25\lib\sre_compile.py to sre_compile.pyc
+skipping byte-compilation of C:\PYTHON25\lib\sre_constants.py to sre_constants.pyc
+skipping byte-compilation of C:\PYTHON25\lib\sre_parse.py to sre_parse.pyc
+skipping byte-compilation of C:\PYTHON25\lib\stat.py to stat.pyc
+skipping byte-compilation of C:\PYTHON25\lib\string.py to string.pyc
+skipping byte-compilation of C:\PYTHON25\lib\stringprep.py to stringprep.pyc
+skipping byte-compilation of C:\PYTHON25\lib\struct.py to struct.pyc
+skipping byte-compilation of C:\PYTHON25\lib\subprocess.py to subprocess.pyc
+skipping byte-compilation of C:\PYTHON25\lib\tempfile.py to tempfile.pyc
+skipping byte-compilation of C:\PYTHON25\lib\textwrap.py to textwrap.pyc
+skipping byte-compilation of C:\PYTHON25\lib\threading.py to threading.pyc
+skipping byte-compilation of C:\PYTHON25\lib\token.py to token.pyc
+skipping byte-compilation of C:\PYTHON25\lib\tokenize.py to tokenize.pyc
+skipping byte-compilation of C:\PYTHON25\lib\traceback.py to traceback.pyc
+skipping byte-compilation of C:\PYTHON25\lib\types.py to types.pyc
+skipping byte-compilation of C:\PYTHON25\lib\unittest.py to unittest.pyc
+skipping byte-compilation of C:\PYTHON25\lib\warnings.py to warnings.pyc
+skipping byte-compilation of C:\PYTHON25\lib\zipfile.py to zipfile.pyc
+*** copy extensions ***
+*** copy dlls ***
+copying C:\PYTHON25\lib\site-packages\py2exe\run_w.exe -> C:\Mis documentos\MisProyectos\BusSujetos\dist\Busqueda.exe
+The following modules appear to be missing
+['mocons.lib.utils', 'win32com.gen_py']
+
+*** binary dependencies ***
+Your executable(s) also depend on these dlls which are not included,
+you may or may not need to distribute them.
+
+Make sure you have the license if you distribute any of them, and
+make sure you don't distribute files belonging to the operating system.
+
+   KERNEL32.dll - C:\WINDOWS\SYSTEM\KERNEL32.dll
+   VERSION.dll - C:\WINDOWS\SYSTEM\VERSION.dll
+   COMCTL32.dll - C:\WINDOWS\SYSTEM\COMCTL32.dll
+   SHELL32.dll - C:\WINDOWS\SYSTEM\SHELL32.dll
+   WINSPOOL.DRV - C:\WINDOWS\SYSTEM\WINSPOOL.DRV
+   MSVCP71.dll - C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\MSVCP71.dll
+   msvcrt.dll - C:\WINDOWS\SYSTEM\msvcrt.dll
+   USER32.dll - C:\WINDOWS\SYSTEM\USER32.dll
+   MFC71.DLL - C:\WINDOWS\SYSTEM\MFC71.DLL
+   ADVAPI32.dll - C:\WINDOWS\SYSTEM\ADVAPI32.dll
+   WSOCK32.dll - C:\WINDOWS\SYSTEM\WSOCK32.dll
+   OLEAUT32.dll - C:\WINDOWS\SYSTEM\OLEAUT32.dll
+   comdlg32.dll - C:\WINDOWS\SYSTEM\comdlg32.dll
+   RPCRT4.dll - C:\WINDOWS\SYSTEM\RPCRT4.dll
+   GDI32.dll - C:\WINDOWS\SYSTEM\GDI32.dll
+   WINMM.dll - C:\WINDOWS\SYSTEM\WINMM.dll
+   gdiplus.dll - C:\PYTHON25\lib\site-packages\wx-2.8-msw-unicode\wx\gdiplus.dll
+   ole32.dll - C:\WINDOWS\SYSTEM\ole32.dll

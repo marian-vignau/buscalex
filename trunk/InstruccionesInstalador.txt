@@ -1,0 +1,6 @@
+Intrucciones para hacer ejecutable
+
+1. Correr setup.py (en el directorio del codigo fuente)
+    comando c:\python25\python.exe setup.py py2exe
+2. Copiar directorio icons y a config.ini en directorio dist
+3. Abrir con HM NIS Edit el instalar.nsi y compilarlo (Shift-F9)
