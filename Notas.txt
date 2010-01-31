@@ -1,0 +1,32 @@
+Notas sobre el programa:
+Este programa utiliza la API de Lex, a traves de una serie
+de clases para facilitar su uso que se encuentran en el
+modulo LexCom (Python25/Lib/site-packages/LexCom). 
+Todas las clases de este modulo estan basadas en la 
+clase tabla, y agregan una serie de atributos 
+de acceso personalizado usando funciones comenzadas
+por un convencion arbitrariamente elegida en get_
+
+Los archivos componentes son:
+
+Busqueda.pyw: desde aca se llama al programa con su interfaz grafica.
+
+Indizar.py: Administra todo el tema de las diferentes copias de la BD 
+de indice.
+
+Indizador.py: arma la tabla sqlite que permite las
+consultas.
+
+BusqSQL: este archivo tiene dos clases:
+    Buscador: arma un generado con todos las claves de los sujetos encontrados
+    
+    DevuelvoConsulta: a partir de este generador, navega en el Lex usando las
+    clases del modulo, y genera los string con formato HTML con la presentacion final
+
+BusqGUI: programa generado por el wxGlade (dise⢤or de pantallas)
+
+Paginador: Maneja una cache de resultados
+
+config.py: Lee el archivo de configuracion y lo carga en sus globals
+
+setup.py: para generar instalador
